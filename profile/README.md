@@ -16,4 +16,4 @@ A feedback and Q&A section follow. After the event the group may gather at a nea
 🧙 Join us on [Discord](#) or [Twitter (now X)](https://x.com/BitDevsKLA)
 
 
-👩‍💻 Suggest a topic of discussion via [Github Issues here](https://github.com/BitDevsKLA/url/issues)
+👩‍💻 Suggest a topic of discussion via [Github Issues here](https://github.com/BitDevsKLA/bitdevskla.org/issues)

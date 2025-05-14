@@ -13,7 +13,7 @@ A feedback and Q&A section follow. After the event the group may gather at a nea
 ### Actionables
 
 🙋‍♀️ Subscribe to our [Luma event calendar](https://lu.ma/bitdevskla) to get notified on upcoming events
-🧙 Join us on [Discord](#) or [Twitter (now X)](https://x.com/BitDevsKLA)
+🧙 Join us on [Discord](https://discord.gg/jxdvET2PdS) or [Twitter (now X)](https://x.com/BitDevsKLA)
 
 
 👩‍💻 Suggest a topic of discussion via [Github Issues here](https://github.com/BitDevsKLA/bitdevskla.org/issues)
